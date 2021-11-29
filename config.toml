@@ -1,4 +1,4 @@
-baseurl = ""
+baseurl = "/"
 languageCode = "en"
 title = "Network Connor"
 canonifyurls = true
