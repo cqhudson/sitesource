@@ -1,0 +1,20 @@
+baseurl = ""
+languageCode = "en"
+title = "Network Connor"
+canonifyurls = true
+
+[permalinks]
+post = "/:year/:month/:day/:filename/"
+[params]
+author = "Connor"
+subtitle = "Connor's blog"
+description = "Connor's weblog"
+twitter_url = ""
+github_url = ""
+copyright_since = "2021"
+copyright_latest = "2021"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+	  unsafe = true
