@@ -1,14 +1,14 @@
 baseurl = "/"
-languageCode = "en"
-title = "Network Connor"
+languageCode = "en-us"
+title = "networkconnor.com"
 canonifyurls = true
 
 [permalinks]
 post = "/:year/:month/:day/:filename/"
 [params]
-author = "Connor"
-subtitle = "Connor's blog"
-description = "Connor's weblog"
+author = "networkconnor"
+subtitle = "networkconnor's archive of information"
+description = ""
 twitter_url = ""
 github_url = ""
 copyright_since = "2021"
